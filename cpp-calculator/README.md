@@ -1,16 +1,13 @@
 ﻿# C++ Command Line Calculator
 
-This is an extremely simple calculator I made while learning C++.
+This is a straightforward calculator I made while learning C++.
 
 Download the repo, compile and run it:
 ```
-$git clone https://github.com/christopher-siewert/cpp-calculator.git
-$cd cpp-calculator
+$git clone https://github.com/Nikhil0905/Digital-Calculator.git
+$cd Digital-Calculator
 $make
 ```
-
-For Windows users, I included my Code::Blocks project file, `Calculator.cbp`.
-Open this with the [Code::Blocks](http://www.codeblocks.org/) IDE.
 
 It has two modes, regular and scientific, that a user can switch between.
 
